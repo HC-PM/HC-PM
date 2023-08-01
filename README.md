@@ -1,4 +1,4 @@
-Chemist learning Python, Bash, and SQL in order to pursue Data Science/Cheminformatics.
+Chemist learning Python, Bash, and SQL in order to pursue Material Informatics.
 
 <!---
 HC-PM/HC-PM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
